@@ -9,15 +9,7 @@ excerpt: >-
 layout: post
 ---
 
-**And your parents are going to checking**.
-
-## Advantages and Disadvantages 
-
-See above
-
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
-
-We are going to have to find what works best for most. There are many options.
+> We are going to have to find what works best for most. There are many options.
 
 ## Options
 

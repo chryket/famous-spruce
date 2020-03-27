@@ -1,10 +1,10 @@
-title: Stackbit Ampersand Theme
+title: Digital learning for class 9
 baseurl: /
 permalink: '/:title/'
 layout_style: grid
 palette: green
 header:
-  title: Ampersand
+  title: Class 9 Learning Outline
   logo_img: images/logo.png
   has_nav: true
 footer:
@@ -20,6 +20,9 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
+collections:
+  posts:
+    permalink: '/posts/:title/'
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -34,6 +37,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'

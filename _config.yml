@@ -1,11 +1,11 @@
-title: Digital learning for class 9
+title: Digital Resources for Class 9
 baseurl: /
 permalink: '/:title/'
 layout_style: grid
 palette: green
 header:
-  title: Class 9 Learning Outline
-  logo_img: images/logo.png
+  title: 'Class 9 Learning Outline '
+  logo_img: ''
   has_nav: true
 footer:
   content: '&copy; All rights reserved.'

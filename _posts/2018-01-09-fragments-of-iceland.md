@@ -1,8 +1,9 @@
 ---
-title: Fragments of Iceland
-date: '2018-01-09'
+title: Maths
+subtitle: 'Geometry: Complexity'
+date: 2020-03-29T22:00:00.000Z
 thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+content_img_path: /images/screenshot-from-2020-03-27-11-43-16.png
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
